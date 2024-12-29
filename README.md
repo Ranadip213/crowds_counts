@@ -38,8 +38,8 @@ Installation
 
 Clone this repository:
 
-git clone https://github.com/your-username/person-detection.git
-cd person-detection
+[git clone https://github.com/your-username/person-detection.git
+cd person-detection]
 
 Install the required dependencies:
 
